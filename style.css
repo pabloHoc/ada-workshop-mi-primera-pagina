@@ -2,31 +2,34 @@
   /* Colores para texto */
   --color-texto-primario: #333;
   --color-texto-secundario: #808080;
-  --color-resaltador: #00ff7f;
-  --color-resaltador-secundario: #ff1493;
+  --color-resaltador-claro: #00FF7F;
+  --color-resaltador-oscuro: #FF1493;
+
+  /* Colores para fondos */
+  --color-oscuro: #333;
+  --color-claro: #FFF;
 
   /* Colores para íconos */
   --color-github: #333;
-  --color-linkedin: #0e76a8;
-  --color-google: #ea4335;
-  --color-twitter: #1da1f2;
+  --color-linkedin: #0E76A8;
+  --color-google: #EA4335;
+  --color-twitter: #1DA1F2;
 
   /* Tamaños de fuentes */
-  --alto-saludo: 65px;
-  --alto-descripcion: 25px;
-  --alto-texto-footer: 20px;
+  --alto-saludo-grande: 65px;
+  --alto-descripcion-grande: 25px;
+  --alto-texto-footer-grande: 20px;
 
-  --alto-texto-icono: 40px;
-  --alto-texto-icono-chico: 35px;
+  --alto-saludo-normal: 50px;
+  --alto-descripcion-normal: 18px;
 
-  --alto-saludo-chico: 50px;
-  --alto-descripcion-chico: 18px;
-
-  --alto-saludo-mobile: 40px;
-  --alto-descripcion-mobile: 16px;
+  --alto-saludo-chico: 40px;
+  --alto-descripcion-chico: 16px;
 
   /* Tamaños de íconos */
-  --medida-icono-modo: 52px;
-  --medida-icono-grande: 40px;
-  --medida-icono-chico: 35px;
+  --diametro-icono-grande: 40px;
+  --diametro-icono-chico: 35px;
+
+  --diametro-switch-grande: 52px;
+  --diametro-switch-chico: 35px;
 }
